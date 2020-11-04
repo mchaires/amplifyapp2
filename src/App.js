@@ -6,10 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>HTML WILL ALWAYS BE HTML even if you want special tags <br/> real time update</p>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p>Hellow World</p>
         <a
           className="App-link"
           href="https://reactjs.org"
